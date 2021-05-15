@@ -69,7 +69,7 @@ async def on_ready():
         print()
         print("terror".center(width))
         print()
-        print("[-] made by rui#1337 [-]".center(width))
+        print("[-] made by rui [-]".center(width))
         print("[-] Logged In As: {0} [-]".format(client.user).center(width))
         print("[-] Sometimes i ask myself, L or N? [-]".format(client.user).center(width))
         print()
